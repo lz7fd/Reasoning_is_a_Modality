@@ -24,7 +24,7 @@ stage 1 pretrain:
 ```
 bash c-4-pretrain_stage_1.sh
 ```
-Depends on the hardware, GPU memory < 150gb needs to reduce the batch size. Different hardware has different speeds, may be very fast or super slow, very very slow, and compile optimization might take a very long time.
+Depends on the hardware, GPU memory < 150gb needs to reduce the batch size. Different hardware has different speeds, may be very fast (5-10 hrs) or super slow (100hrs+), and compile optimization might take a very long time.
 stage 2 pretrain:
 ```
 bash c-d-4-pretrain_stage_2.sh
