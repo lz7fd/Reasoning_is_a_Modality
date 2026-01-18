@@ -1,8 +1,8 @@
 # Reasoning_is_a_Modality
 
-paper access:
+Paper access:
 
-dataset and checkpoint: https://huggingface.co/lz7fdmu/Reasoning_is_a_Modality/tree/main
+Our best checkpoint c-d-4: https://huggingface.co/lz7fdmu/Reasoning_is_a_Modality/tree/main
 
 environment:
 You need to decide the environment based on your best judgement, due to different hardware e.g. B200 cannot run on PyTorch 2.7.0, arm cpu etc. Not guarantee able to work. Use your best judgment to install the environment.
@@ -14,7 +14,10 @@ conda activate arc
 pip install -r requirements.txt
 ```
 
-download dataset and unzip: https://huggingface.co/lz7fdmu/Reasoning_is_a_Modality/resolve/main/raw_data.zip
+prep dataset:
+```
+python augment_data.py
+```
 
 To reproduce our best model c-d-4:
 stage 1 pretrain:
