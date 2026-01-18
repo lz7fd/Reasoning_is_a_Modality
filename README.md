@@ -2,7 +2,7 @@
 
 paper access:
 
-dataset and checkpoint: https://huggingface.co/lz7fdmu/Reasoning_is_a_Modality/tree/main
+dataset and checkpoint: (https://huggingface.co/lz7fdmu/Reasoning_is_a_Modality/tree/main)
 
 environment:
 You need to decide the environment based on your best judgement, due to different hardware e.g. B200 cannot run on PyTorch 2.7.0, arm cpu etc. Not guarantee able to work. Use your best judgment to install the environment.
