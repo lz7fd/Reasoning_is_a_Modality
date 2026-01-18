@@ -1,0 +1,184 @@
+nohup: ignoring input
+GPU 0 processing task 65b59efc (ARC-2 VARC-ViT)
+GPU 1 processing task 2d0172a1 (ARC-2 VARC-ViT)
+GPU 2 processing task 7b0280bc (ARC-2 VARC-ViT)
+GPU 3 processing task e12f9a14 (ARC-2 VARC-ViT)
+GPU 4 processing task e8686506 (ARC-2 VARC-ViT)
+GPU 5 processing task 88e364bc (ARC-2 VARC-ViT)
+GPU 6 processing task 7b3084d4 (ARC-2 VARC-ViT)
+GPU 7 processing task a251c730 (ARC-2 VARC-ViT)
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+Start loading data...
+Finish loading!!
+Start loading data...
+Finish loading!!
+Total training examples: 153
+Resuming from checkpoint: ckpts/8_neighbor_pretrain_30_epoch/v8_checkpoint_recurrent_4_neighbor_attn_30_epoch_final.pt
+Patch size: 2, sequence length: 1024, max ctx tokens: 4
+Skipped loading parameters: ['correct_head.bias', 'correct_head.weight', 'task_token_embed.weight']
+Applying torch.compile for optimization...
+Starting test-time training attempt 1/2...
+Using automatic mixed precision (AMP) training
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.2% ETA 02h06m58sStart loading data...
+Finish loading!!
+Start loading data...
+Finish loading!!
+Total training examples: 153
+Resuming from checkpoint: ckpts/8_neighbor_pretrain_30_epoch/v8_checkpoint_recurrent_4_neighbor_attn_30_epoch_final.pt
+Patch size: 2, sequence length: 1024, max ctx tokens: 4
+Skipped loading parameters: ['correct_head.bias', 'correct_head.weight', 'task_token_embed.weight']
+Applying torch.compile for optimization...
+Starting test-time training attempt 1/2...
+Using automatic mixed precision (AMP) training
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.2% ETA 02h06m53sStart loading data...
+Finish loading!!
+Start loading data...
+Finish loading!!
+Total training examples: 204
+Resuming from checkpoint: ckpts/8_neighbor_pretrain_30_epoch/v8_checkpoint_recurrent_4_neighbor_attn_30_epoch_final.pt
+Patch size: 2, sequence length: 1024, max ctx tokens: 4
+Skipped loading parameters: ['correct_head.bias', 'correct_head.weight', 'task_token_embed.weight']
+Applying torch.compile for optimization...
+Starting test-time training attempt 1/2...
+Using automatic mixed precision (AMP) training
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.1% ETA 02h46m18sStart loading data...
+Finish loading!!
+Start loading data...
+Finish loading!!
+Total training examples: 153
+Resuming from checkpoint: ckpts/8_neighbor_pretrain_30_epoch/v8_checkpoint_recurrent_4_neighbor_attn_30_epoch_final.pt
+Patch size: 2, sequence length: 1024, max ctx tokens: 4
+Skipped loading parameters: ['correct_head.bias', 'correct_head.weight', 'task_token_embed.weight']
+Applying torch.compile for optimization...
+Starting test-time training attempt 1/2...
+Using automatic mixed precision (AMP) training
+Non-finite grad norm (inf) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.2% ETA 02h07m14sStart loading data...
+Finish loading!!
+Start loading data...
+Finish loading!!
+Total training examples: 102
+Resuming from checkpoint: ckpts/8_neighbor_pretrain_30_epoch/v8_checkpoint_recurrent_4_neighbor_attn_30_epoch_final.pt
+Patch size: 2, sequence length: 1024, max ctx tokens: 4
+Skipped loading parameters: ['correct_head.bias', 'correct_head.weight', 'task_token_embed.weight']
+Applying torch.compile for optimization...
+Starting test-time training attempt 1/2...
+Using automatic mixed precision (AMP) training
+Non-finite grad norm (inf) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.3% ETA 01h22m27sStart loading data...
+Finish loading!!
+Start loading data...
+Finish loading!!
+Total training examples: 204
+Resuming from checkpoint: ckpts/8_neighbor_pretrain_30_epoch/v8_checkpoint_recurrent_4_neighbor_attn_30_epoch_final.pt
+Patch size: 2, sequence length: 1024, max ctx tokens: 4
+Skipped loading parameters: ['correct_head.bias', 'correct_head.weight', 'task_token_embed.weight']
+Applying torch.compile for optimization...
+Starting test-time training attempt 1/2...
+Using automatic mixed precision (AMP) training
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (inf) on at least one rank, skipping step
+Non-finite grad norm (inf) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.3% ETA 01h33m26sNon-finite grad norm (nan) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.3% ETA 01h33m12s/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+/home/ubuntu/miniconda3/envs/visarc/lib/python3.13/site-packages/torch/_dynamo/guards.py:1114: RuntimeWarning: Guards may run slower on Python 3.13.0. Consider upgrading to Python 3.13.1+.
+  warnings.warn(
+Non-finite grad norm (nan) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.3% ETA 01h36m53sEpoch 0 [------------------------------]   0.3% ETA 01h37m13sNon-finite grad norm (inf) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.3% ETA 01h37m20sStart loading data...
+Finish loading!!
+Start loading data...
+Finish loading!!
+Total training examples: 153
+Resuming from checkpoint: ckpts/8_neighbor_pretrain_30_epoch/v8_checkpoint_recurrent_4_neighbor_attn_30_epoch_final.pt
+Patch size: 2, sequence length: 1024, max ctx tokens: 4
+Skipped loading parameters: ['correct_head.bias', 'correct_head.weight', 'task_token_embed.weight']
+Applying torch.compile for optimization...
+Starting test-time training attempt 1/2...
+Using automatic mixed precision (AMP) training
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Non-finite grad norm (nan) on at least one rank, skipping step
+Epoch 0 [------------------------------]   0.3% ETA 01h36m47s
+epoch=0 | train_loss=14.0002 | L_ce=18.0557 | L_mid=9.8267 | L_corr=0.0000 | train_acc=0.0000 | wrong_pix_frac=0.7506 | mean_CE_wrong=12.2403 | mean_CE_correct=0.1062 | mean_margin_wrong=-12.1394 | avg_m=380.0 | avg_n=1143.4 | epoch_time=19.4s | lr=0.000000
+Epoch 1 [------------------------------]   0.5% ETA 01h09m41s
+epoch=0 | train_loss=2.6150 | L_ce=3.4793 | L_mid=0.7142 | L_corr=0.0000 | train_acc=0.0000 | wrong_pix_frac=0.1866 | mean_CE_wrong=3.9677 | mean_CE_correct=0.0564 | mean_margin_wrong=-3.7872 | avg_m=2274.6 | avg_n=521.8 | epoch_time=19.5s | lr=0.000000
+Epoch 1 [------------------------------]   0.5% ETA 01h09m55s
+epoch=0 | train_loss=4.9207 | L_ce=5.5624 | L_mid=2.9601 | L_corr=0.0000 | train_acc=0.0000 | wrong_pix_frac=0.6894 | mean_CE_wrong=3.9687 | mean_CE_correct=0.3137 | mean_margin_wrong=-3.5240 | avg_m=93.1 | avg_n=206.7 | epoch_time=19.5s | lr=0.000000
+Epoch 1 [------------------------------]   0.5% ETA 01h09m58s
+epoch=0 | train_loss=4.8028 | L_ce=6.2274 | L_mid=1.2450 | L_corr=0.0000 | train_acc=0.0000 | wrong_pix_frac=0.1778 | mean_CE_wrong=6.7548 | mean_CE_correct=0.0465 | mean_margin_wrong=-6.5604 | avg_m=1971.3 | avg_n=426.2 | epoch_time=19.4s | lr=0.000000
+Epoch 1 [------------------------------]   0.5% ETA 01h09m38sEpoch 1 [------------------------------]   0.7% ETA 00h58m30sEpoch 1 [------------------------------]   0.7% ETA 00h58m42sEpoch 1 [------------------------------]   0.7% ETA 00h58m49sEpoch 1 [------------------------------]   0.7% ETA 00h58m34s
+epoch=1 | train_loss=12.6468 | L_ce=12.5762 | L_mid=7.0592 | L_corr=0.0000 | train_acc=0.0000 | wrong_pix_frac=0.7466 | mean_CE_wrong=10.4947 | mean_CE_correct=0.1669 | mean_margin_wrong=-10.3359 | avg_m=291.5 | avg_n=858.9 | epoch_time=4.1s | lr=0.000003
+Epoch 2 [------------------------------]   0.8% ETA 00h49m52s
+epoch=1 | train_loss=3.7320 | L_ce=3.7112 | L_mid=2.0755 | L_corr=0.0000 | train_acc=0.0000 | wrong_pix_frac=0.6079 | mean_CE_wrong=2.9050 | mean_CE_correct=0.4210 | mean_margin_wrong=-2.3394 | avg_m=118.6 | avg_n=183.9 | epoch_time=4.1s | lr=0.000003
+Epoch 2 [------------------------------]   0.8% ETA 00h50m07s
+epoch=1 | train_loss=1.3813 | L_ce=1.3785 | L_mid=0.2791 | L_corr=0.0000 | train_acc=0.0000 | wrong_pix_frac=0.0913 | mean_CE_wrong=3.5895 | mean_CE_correct=0.0417 | mean_margin_wrong=-3.3608 | avg_m=2015.8 | avg_n=202.4 | epoch_time=4.2s | lr=0.000003
+Epoch 2 [------------------------------]   0.8% ETA 00h50m12s
+epoch=1 | train_loss=3.8302 | L_ce=3.8225 | L_mid=0.7731 | L_corr=0.0000 | train_acc=0.0000 | wrong_pix_frac=0.1446 | mean_CE_wrong=5.5623 | mean_CE_correct=0.0570 | mean_margin_wrong=-5.3121 | avg_m=1618.0 | avg_n=273.6 | epoch_time=4.2s | lr=0.000003
+Epoch 2 [------------------------------]   0.8% ETA 00h50m01sEpoch 2 [------------------------------]   1.0% ETA 00h43m54sEpoch 2 [------------------------------]   1.0% ETA 00h44m13sEpoch 2 [------------------------------]   1.0% ETA 00h44m15sEpoch 2 [------------------------------]   1.0% ETA 00h44m05s

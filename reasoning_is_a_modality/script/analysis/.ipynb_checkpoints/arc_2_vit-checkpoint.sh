@@ -1,0 +1,1 @@
+python analysis.py --output-root "outputs/ARC_2_eval_ViT_attempt_1" --html-output "arc_agi_2_vit_300_8_neighbors_pos_neg_loss_corr_loss_3_streak_attempt_3.html" --task-type ARC-AGI-2
