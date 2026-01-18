@@ -1,1 +1,0 @@
-python analysis.py --output-root "outputs/ARC_1_eval_ViT_attempt_1/" --html-output "arc_agi_1_vit_recurrent_4_pos_neg_loss_corr_loss_8_neighbor_attempt_3" --task-type ARC-AGI
