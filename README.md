@@ -5,8 +5,8 @@ Paper access:
 We discovered the qualitative difference between modern AI systems and human intelligence.
 Based on biological and cognitive evidence, humans can explain their own behavior by decoding an internal mental state that causally produced the behavior.
 In contrast, modern AI systems generate behavior and explanations as statistically plausible continuations of an observable trace; we refer to this mechanism of post-hoc rationalization without subjective experience as "hallucination" in the context of this paper.
-Thus, "hallucination" is the core component of modern AI systems; AI systems' reasoning relies purely on the "hallucination" mechanism.
-We successfully isolate "hallucination" with training, data, model size, etc., the only way to mitigate is to cross the mechanistic gap.
+Thus, "hallucination" is the core component of modern AI systems; AI systems' reasoning relies on the "hallucination" mechanism.
+We successfully isolate "hallucination" with training, data, model size, optimization, etc., the only way to mitigate is to cross the mechanistic gap.
 Interestingly, this gap between 2 types of intelligence would not obstruct modern AI systems surpass human performance, thus this gap is "invisible" across quantitative measurements (benchmark scores).  
 Then we hypothesize that "Reasoning is a Modality": reasoning should exist as a distinct internal channel, a global controller state, that separates from the low-level workspace on which rules are applied.
 We developed a new reasoning model that mitigated this gap.
