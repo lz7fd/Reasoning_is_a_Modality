@@ -3,7 +3,7 @@
 Paper access:
 
 We discovered the qualitative difference between modern AI systems and human intelligence.
-Based on biological and cognitive evidence, we modeling humans can explain their own behavior by decoding an internal mental state that causally produced the behavior.
+Based on biological and cognitive evidence, humans can explain their own behavior by decoding an internal mental state that causally produced the behavior.
 In contrast, modern AI systems generate behavior and explanations as statistically plausible continuations of an observable trace; we refer to this mechanism of post-hoc rationalization without subjective experience as "hallucination" in the context of this paper.
 Thus, "hallucination" is the core component of modern AI systems; AI systems' reasoning relies purely on the "hallucination" mechanism.
 We successfully isolate "hallucination" with training, data, model size, etc., the only way to mitigate is to cross the mechanistic gap.
