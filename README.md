@@ -1,8 +1,8 @@
 # Reasoning is a Modality
 
-Paper access:
+Paper access: https://arxiv.org/abs/2601.13562
 
-We discovered the qualitative difference between modern AI systems and human intelligence.
+We discovered one of the qualitative difference between modern AI systems and human intelligence.
 Based on biological and cognitive evidence, humans can explain their own behavior by decoding an internal mental state that causally produced the behavior.
 In contrast, modern AI systems generate behavior and explanations as statistically plausible continuations of an observable trace; we refer to this mechanism of post-hoc rationalization without subjective experience as "hallucination" in the context of this paper.
 Thus, "hallucination" is the core component of modern AI systems; AI systems' reasoning relies on the "hallucination" mechanism.
@@ -61,3 +61,16 @@ bash analysis/arc_1_vit.sh
 or any other variation depends on what you want to analyze.
 
 
+# Citation
+If you find our work helpful, please kindly cite our paper
+```
+@misc{liu2026reasoningmodality,
+      title={Reasoning is a Modality}, 
+      author={Zhiguang Liu and Yi Shang},
+      year={2026},
+      eprint={2601.13562},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2601.13562}, 
+}
+```
